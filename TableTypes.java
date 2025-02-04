@@ -1,0 +1,3 @@
+public enum TableTypes {
+    USER_TABLE, BOOK_TABLE, RESERVE_TABLE, FINE_TABLE
+}
